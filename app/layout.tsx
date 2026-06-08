@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     capable: true,
     title: "생활틈새 계산기",
     statusBarStyle: "default"
+  },
+  verification: {
+    google: "Lyo5X56OxLNlr8UfL-T8EFn-ii_Cct9XNA6hypKZfAs"
   }
 };
 
